@@ -1,0 +1,16 @@
+body { background: #123;}
+.butterfly {  
+	background-image: url('http://bestanimations.com/Animals/Insects/Butterflys/butterfly-animated.gif');
+	margin: 30% 0 0 50%;
+	height: 150px; width:150px;
+	transition: all 1s; }
+.startgame { 
+	height: 100px; width: 300px;
+	font-size: 2.5em;
+	position: absolute;
+	top: 0; left: 0; right: 0; bottom: 0;
+	margin: auto; }
+.scoreboard{
+	color: white;
+	position: absolute;
+	bottom: 15px; left: 15px; }
